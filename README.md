@@ -1,6 +1,6 @@
 # poc-cli-golang
 
-POC of a CLI project using Golang 🐿 inspired from [this article](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177).
+POC of a CLI project using Golang inspired from [this article](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177).
 
 ## Requirements
 
