@@ -2,13 +2,13 @@
 
 POC of a CLI project using Golang inspired from [this article](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177).
 
-## Requirements
+## 📑 Requirements
 
 - Golang installed (go1.15 or newer)
 - Cobra library (`go get -u github.com/spf13/cobra/cobra`)
 - Any code editor of your choice
 
-## Setup & Update
+## ⚙️ Setup & Update
 
 At the repository `root` run:
 
@@ -18,7 +18,7 @@ go install my-cli
 
 Then, the `my-cli` command should be recognized on your terminal.
 
-_Note: If `my-cli` is not recognized by the terminal, please run:_
+_**Note**: If `my-cli` is not recognized by the terminal, please run:_
 
 ```bash
 export PATH=$PATH:$(go env GOPATH)/bin
@@ -26,9 +26,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 
 _...or check your `$HOME/go/bin directory` if the `my-cli` bin is there)._
 
-## Run
-
-**Available Commands:**
+## 🚀 Run
 
 ### Login
 
