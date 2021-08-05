@@ -41,7 +41,7 @@ my-cli login -u="username" -p = "password"
 Will return the sum of all numbers used as arguments.
 
 ```bash
-my-cli add 1 2 3
+my-cli add 1 2 3 4
 ```
 
 #### Add Even (Add sub-command)
@@ -49,7 +49,7 @@ my-cli add 1 2 3
 Will return the sum of all even numbers used as arguments.
 
 ```bash
-my-cli add even 1 2 3
+my-cli add even 1 2 3 4
 ```
 
 #### Add Odd (Add sub-command)
@@ -57,5 +57,5 @@ my-cli add even 1 2 3
 Will return the sum of all odd numbers used as arguments.
 
 ```bash
-my-cli add odd 1 2 3
+my-cli add odd 1 2 3 4
 ```
