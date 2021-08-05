@@ -10,11 +10,13 @@ POC of a CLI project using Golang inspired from [this article](https://towardsda
 
 ## Setup & Update
 
-At the repository `root` run: `go install my-cli`
+At the repository `root` run: 
 
-Then, the `my-cli` command should be recognized on your terminal.
+```bash
+go install my-cli
+```
 
-_Note: If not, run `export PATH=$PATH:$(go env GOPATH)/bin` or check your `$HOME/go/bin directory` if the `my-cli` bin is there_
+Then, the `my-cli` command should be recognized on your terminal. _(Note: If not, run `export PATH=$PATH:$(go env GOPATH)/bin` or check your `$HOME/go/bin directory` if the `my-cli` bin is there)._
 
 ## Run
 
