@@ -59,3 +59,11 @@ Will return the sum of all odd numbers used as arguments.
 ```bash
 my-cli add odd 1 2 3 4
 ```
+
+### Create
+
+Will create something with the specified **arg** `<name>` using the **flag** `--env-from`:
+
+```bash
+my-cli create <name> --env-from="dev"
+```
